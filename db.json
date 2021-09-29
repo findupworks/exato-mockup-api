@@ -1,0 +1,29 @@
+{
+    "receita-federal-cadastro": {
+        "cpf-sem-nascimento": {
+            "UniqueIdentifier": "122n7dpasiqf8b51uu2nst5jrgx0dpz7",
+            "TransactionResultTypeCode": 1,
+            "TransactionResultType": "Success",
+            "Message": "Sucesso.",
+            "TotalCostInCredits": 2,
+            "BalanceInCredits": 160,
+            "ElapsedTimeInMilliseconds": 13199,
+            "Reserved": null,
+            "Date": "2021-09-21T09:42:52.8985084-03:00",
+            "OutdatedResult": false,
+            "HasPdf": true,
+            "DataSourceHtml": null,
+            "DateString": "2021-09-21T09:42:52.8985084-03:00",
+            "OriginalFilesUrl": "https://api.exato.digital/services/original-files/122n7dpasiqf8b51uu2nst5jrgx0dpz7",
+            "PdfUrl": "https://api.exato.digital/services/pdf/122n7dpasiqf8b51uu2nst5jrgx0dpz7",
+            "TotalCost": 0,
+            "BalanceInBrl": null,
+            "Result": {
+                "PossuiAntecedCriminais": false,
+                "NumeroCertidao": 6984611285322021,
+                "DataHoraEmissao": "2021-09-21T09:42:00.0000000",
+                "DataConsulta": "2021-09-21T09:42:52.8967922-03:00"
+            }
+        }
+    }
+}
